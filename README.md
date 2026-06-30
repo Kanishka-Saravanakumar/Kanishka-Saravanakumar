@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kanishka-Saravanakumar/Kanishka-Saravanakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hello there ! I'm Kanishka_Saravanakumar 💌
 
-Here are some ideas to get you started:
+  ### 👩‍💻 Computer Science Engineering Student | Aspiring Web Developer | Python Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  *"Coding with ambition, designing with passion, making every project unique."*
+</div>
+
+<br />
+
+## 📖 About Me
+
+I'm a 2nd year cse student who's absolutely passionate about technology . 
+I have posted multiple projects here. Feel free to check these out.
+<br />
+**Currently:**
+I'm learning multiple skills and contributing to impactful projects.
+<br />
+<div align="center">
+
+## 📩 Let's Connect & Collaborate
+<a href="mailto:kanishka.saravanakumar@gmail.com">
+  <img src="https://shields.io" alt="Email Me" />
+</a>
+</div>
