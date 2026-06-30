@@ -17,11 +17,14 @@ I have posted multiple projects here. Feel free to check these out.
 **Currently:**
 I'm learning multiple skills and contributing to impactful projects.
 <br />
-<div align="center">
 
-## 📩 Let's Connect & Collaborate
-  <a href="mailto:kanishka.saravanakumar@gmail.com">
-  <img src="https://badgen.net" alt="Email Me" />
+## 📩 Let's Connect 
+
+<a href="https://www.linkedin.com/in/kanishka-saravanakumar?utm_source=share_via&utm_content=profile&utm_medium=member_android" style="text-decoration: none;">
+  <span style="background-color: #FFB6C1; color: white; padding: 10px 20px; font-family: sans-serif; font-weight: bold; border-radius: 4px; display: inline-block; font-size: 14px; letter-spacing: 1px;">
+    💼 LINKEDIN
+  </span>
 </a>
-</a>
+
 </div>
+
