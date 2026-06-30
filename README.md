@@ -20,7 +20,8 @@ I'm learning multiple skills and contributing to impactful projects.
 <div align="center">
 
 ## 📩 Let's Connect & Collaborate
-<a href="mailto:kanishka.saravanakumar@gmail.com">
-  <img src="https://shields.io" alt="Email Me" />
+  <a href="mailto:kanishka.saravanakumar@gmail.com">
+  <img src="https://badgen.net" alt="Email Me" />
+</a>
 </a>
 </div>
